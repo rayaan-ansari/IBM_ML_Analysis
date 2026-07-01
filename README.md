@@ -12,8 +12,7 @@ The goal is to provide data-driven and actionable insights for talent retention 
 * **Validation:** 10-Fold Cross-Validation for hyperparameter tuning and MSE minimization.
 
 **Key Findings**
-* **Income Prediction:** The optimized Gradient Boosting Machine predicted monthly income with a highly accurate test Mean Squared Error (MSE) of
-* 0.01, outperforming standard linear models.
+* **Income Prediction:** The optimized Gradient Boosting Machine predicted monthly income with a highly accurate test Mean Squared Error (MSE) of 0.01, outperforming standard linear models.
 * **Attrition Classification:** The radial Support Vector Machine (Cost: 10, Gamma: 0.1) successfully identified
 * complex, non-linear boundaries between employees who stay and those who quit.
 * **Feature Importance:** Random Forest variable importance analysis revealed that Job Role, the number of previous companies worked at,
