@@ -15,8 +15,7 @@ The goal is to provide data-driven and actionable insights for talent retention 
 * **Income Prediction:** The optimized Gradient Boosting Machine predicted monthly income with a highly accurate test Mean Squared Error (MSE) of 0.01, outperforming standard linear models.
 * **Attrition Classification:** The radial Support Vector Machine (Cost: 10, Gamma: 0.1) successfully identified
 * complex, non-linear boundaries between employees who stay and those who quit.
-* **Feature Importance:** Random Forest variable importance analysis revealed that Job Role, the number of previous companies worked at,
-* and total years working at IBM are the most critical predictors of an employee's salary and likelihood of leaving.
+* **Feature Importance:** Random Forest variable importance analysis revealed that Job Role, the number of previous companies worked at, and total years working at IBM are the most critical predictors of an employee's salary and likelihood of leaving.
 
 # Some Images
 <img width="411" height="753" alt="image" src="https://github.com/user-attachments/assets/01aaec46-c6f0-45a3-9478-b5ec6b65793c" />
